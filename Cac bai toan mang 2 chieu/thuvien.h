@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+const int KTMT = 10;
+void nhapSoNguyen(int& n);
+void nhapMaTran(int A[][KTMT], int n);
+void xuatMaTran(int A[][KTMT], int n);
+void xuatptle(int A[][KTMT], int n);
+int tongcacpt(int A[][KTMT], int n);
+int tbcptduong(int A[][KTMT], int n);
+int checksnt(int n);
+void xuatsnt(int A[][KTMT], int n);
+int tongsnt(int A[][KTMT], int n);
+int tongdongk(int A[][KTMT], int n);
+int demsoam(int A[][KTMT], int n);
+int demsoduong(int A[][KTMT], int n);
+int demsochan(int A[][KTMT], int n);
+int demsole(int A[][KTMT], int n);
+int demsolanxxuathien(int A[][KTMT], int n);
+int demsonhohonx(int A[][KTMT], int n);
+int demsonguyento(int A[][KTMT], int n);
+int checksht(int n);
+int demsohoanthien(int A[][KTMT], int n);
+int demboicua3va5(int A[][KTMT], int n);
+int tongdongchan(int A[][KTMT], int n);
