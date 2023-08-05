@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+void nhapSoNguyen(int& n);
+void nhap(int A[], int n);
+void xuat(int A[], int n);
+void xuatptle(int A[], int n);
+int tongcacpt(int A[], int n);
+int tbcptduong(int A[], int n);
+int checksnt(int n);
+void xuatsnt(int A[], int n);
+int tongsnt(int A[], int n);
+int demsoam(int A[], int n);
+int demsoduong(int A[], int n);
+int demsochan(int A[], int n);
+int demsole(int A[], int n);
+int demsolanxxuathien(int A[], int n);
+int demsonhohonx(int A[], int n);
+int demsonguyento(int A[], int n);
+int checksht(int n);
+int demsohoanthien(int A[], int n);
